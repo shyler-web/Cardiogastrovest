@@ -1,0 +1,44 @@
+# ── Raw data files (large binary / proprietary) ──────────────────────────────
+DATA_ECG
+DATA_ECG1
+EGG DATA 1/
+EGG DATA 2/
+EGG DATA 3/
+EGG DATA 4/
+data/
+
+# ── PDFs / docs not for repo ─────────────────────────────────────────────────
+Prototype Plan_12-1-26.pdf
+slau443b.pdf
+CardiogastroVest_Technical_Report.md
+
+# ── Legacy/redundant scripts (kept locally, not tracked) ─────────────────────
+analyze_ch2.py
+analyze_data_ecg.py
+analyze_df.py
+analyze_ecg.py
+analyze_ecg1.py
+analyze_egg.py
+analyze_egg1.py
+analyze_egg1_slice.py
+analyze_egg2_clean.py
+analyze_egg3.py
+analyze_egg3_rigorous.py
+analyze_egg4_ch1_ch3.py
+analyze_egg4_rigorous.py
+check_ecg_in_egg.py
+deep_analysis.py
+eeg_analysis.py
+extract_pages.py
+Analysis/
+
+# ── Root-level duplicate PNGs (organized copies are in outputs/) ──────────────
+/*.png
+
+# ── Misc ─────────────────────────────────────────────────────────────────────
+locations.txt
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
